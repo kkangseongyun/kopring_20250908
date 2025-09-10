@@ -2,3 +2,10 @@ Ch4
 
 http://localhost:8080/api/test1/1/one?param1=10&paramData2=two&data1=20&data2=three&data3=true
 
+
+{
+ 	"data1": 20,
+  	"data2": "hello",
+  	"data3": false
+}
+
